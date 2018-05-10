@@ -17,3 +17,12 @@
 * 5가지 종류의 브랜치가 존재
 * 항상 유지되는 메인 브랜치 : master, develop
 * 일정 기간 동안만 유지되는 보조 브랜치 : feature, release, hotfix
+* master : 제품으로 출시될 수 있는 브랜치
+* develop : 다음 출시 버전을 개발하는 브랜치
+* feature : 기능을 개발하는 브랜치
+* release : 이번 출시 버전을 준비하는 브랜치
+* hotfix : 출시 버전에서 발생한 버그를 수정하는 브랜치
+
+![git-flow_overall_graph](http://woowabros.github.io/img/2017-10-30/git-flow_overall_graph.png)
+
+출처 : http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
